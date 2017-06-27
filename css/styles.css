@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  color: purple;
+  font-family: Verdana, sans-serif;
+}
+
+h2 {
+  font-style: italic;
+  text-align: right;
+  text-indent: 60px;
+}
+
+p {
+  font-family: georgia;
+}
+
+ul {
+  position:relative;
+  left: 100px;
+  line-height: 40px;
+  font-size: 1.5em;
+}
+
+.photo {
+  width: 50%;
+}
